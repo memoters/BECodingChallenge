@@ -1,5 +1,4 @@
 using BECodingChallengeService;
-using BECodingChallengeService.Listings;
 
 var builder = WebApplication.CreateBuilder(args);
 
