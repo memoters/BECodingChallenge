@@ -8,7 +8,7 @@ returns { "name": "test", "phone" : "test" }
 
 ## Task 2
 GET /Location
-returns { City: <current city> }
+returns { City: "your current city" }
 
 ## Task 3
 GET /Listings/{passengerCount}
