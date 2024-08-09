@@ -12,3 +12,9 @@
 /BECodingChallengeService/obj/Debug/net6.0/BECodingChallengeService.AssemblyInfoInputs.cache
 /BECodingChallengeServiceTest/obj/Debug/net6.0/BECodingChallengeServiceTest.AssemblyInfoInputs.cache
 /BECodingChallengeServiceTest/obj/Debug/net6.0/BECodingChallengeServiceTest.AssemblyInfo.cs
+/.vs
+./obj
+/BECodingChallengeService/obj
+/BECodingChallenge/obj
+/BECodingChallengeServiceTest/obj
+/BECodingChallengeServiceTest/bin
