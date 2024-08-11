@@ -22,6 +22,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 //comment to bury commit
+//
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
